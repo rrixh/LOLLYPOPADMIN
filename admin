@@ -1649,7 +1649,7 @@ loadstring(game:HttpGetAsync("https://pastebin.com/raw/RY9cBbdG"))()
     });
 end)
 
-cmd.add({"flygui", "fgui", "flyv3"}, {"flygui (fgui)", "v3 fly gui reuploaded"}, function()
+cmd.add({"flygui", "flyv3"}, {"flygui (fgui)", "v3 fly gui reuploaded"}, function()
     -- v3 fly
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rrixh/mobileflygui/main/v3_lulaslollipop",true))()
 end)
@@ -1823,7 +1823,7 @@ loadstring(game:HttpGet("https://paste.gg/p/anonymous/7259b0557ebf44ccabf2f7b58d
     });
 end)
 
-cmd.add({"minecraftesp", "mcesp"}, {"minecraftesp (mcesp)", "minekraft esp"}, function()
+cmd.add({"useresp", "uesp"}, {"usernameesp (uesp)", "username esp"}, function()
     --useresp
 loadstring(game:HttpGet("https://pastebin.com/raw/hpMC6ULU"))()
     
@@ -2031,16 +2031,6 @@ print(Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position
       Duration = 5;
       });
 end)
-
-
-
-
-
-
-
-
-
-
 --[END OF MY 👺👺KOMMANDS]--
 
 --[ SKRIPT ]--
