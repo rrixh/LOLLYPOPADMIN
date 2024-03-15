@@ -9280,7 +9280,7 @@ clear.BorderSizePixel = 0
 clear.Position = UDim2.new(0.595106542, 0, 0.760739207, 0)
 clear.Size = UDim2.new(0, 95, 0, 26)
 clear.Font = Enum.Font.SourceSansBold
-clear.Text = "Clear"
+clear.Text = "Klear"
 clear.TextColor3 = Color3.fromRGB(20, 74, 110)
 clear.TextSize = 19.000
 clear.TextWrapped = true
@@ -9294,7 +9294,7 @@ exec.BorderSizePixel = 0
 exec.Position = UDim2.new(0.310228467, 0, 0.760739207, 0)
 exec.Size = UDim2.new(0, 95, 0, 27)
 exec.Font = Enum.Font.SourceSansBold
-exec.Text = "Execute"
+exec.Text = "Exekute"
 exec.TextColor3 = Color3.fromRGB(20, 74, 110)
 exec.TextSize = 19.000
 exec.TextWrapped = true
@@ -9802,7 +9802,7 @@ local Notify = AkaliNotif.Notify;
 wait();
 
 Notify({
-Description = "Hitbox changed";
+Description = "Hitbox xhanged";
 Title = "Lollypop Admin";
 Duration = 5;
 
@@ -9866,7 +9866,7 @@ local Notify = AkaliNotif.Notify;
 wait();
 
 Notify({
-Description = "Car breaker loaded, sit on a vehicle need to be the driver";
+Description = "kar breaker loaded, sit on a vehikle, need to be the driver";
 Title = "Lollypop Admin";
 Duration = 5;
 
@@ -9949,7 +9949,7 @@ local Notify = AkaliNotif.Notify;
 wait();
 
 Notify({
-Description = "Fired all touch interests";
+Description = "Fired all touxh interests";
 Title = "Lollypop Admin";
 Duration = 5;
 
@@ -10299,22 +10299,22 @@ end)
 Fly()
 end)
 
-cmd.add({"pastebinscraper", "pastebinscrape"}, {"pastebinscraper (pastebinscrape)", "Scrapes paste bin posts"}, function()
+cmd.add({"pastebinscraper", "pastebinscrape"}, {"pastebinscraper (pastebinscrape)", "Skrapes paste bin posts"}, function()
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/FE/main/NotificationUI"))();
 local Notify = AkaliNotif.Notify;
 
 wait();
 
 Notify({
-Description = "Pastebin scraper loaded";
+Description = "Pastebin skraper loaded";
 Title = "Lollypop Admin";
 Duration = 5;
 
 });
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/FE/main/PastebinScraperScript"))()
 game:GetService("CoreGui").Scraper["Pastebin Scraper"].BackgroundTransparency = 0.5
-game:GetService("CoreGui").Scraper["Pastebin Scraper"].TextButton.Text = "             ⭐ Pastebin Post Scraper ⭐"
-game:GetService("CoreGui").Scraper["Pastebin Scraper"].Content.Search.PlaceholderText = "Search for a post here..."
+game:GetService("CoreGui").Scraper["Pastebin Scraper"].TextButton.Text = "             ⭐ Pastebin Post Skraper ⭐"
+game:GetService("CoreGui").Scraper["Pastebin Scraper"].Content.Search.PlaceholderText = "Searxh for a post here..."
 game:GetService("CoreGui").Scraper["Pastebin Scraper"].Content.Search.BackgroundTransparency = 0.4	
 end)
 
@@ -11665,7 +11665,7 @@ local Notify = AkaliNotif.Notify;
 wait();
 
 Notify({
-Description = "Tping unanchored parts to the player, if it doesnt teleport walk over to the unanchored part";
+Description = "Tping unanxhored parts to the player, if it doesnt teleport walk over to the unanxhored part";
 Title = "Lollypop Admin";
 Duration = 5;
 
@@ -11846,7 +11846,7 @@ if part:IsA("BasePart") and part.Anchored == false and part:IsDescendantOf(game.
     b = b + 1
 end
 end
-print ("All parts checked, found", b ,"that are unanchored")
+print ("All parts xhexked, found", b ,"that are unanchored")
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/FE/main/NotificationUI"))();
 local Notify = AkaliNotif.Notify;
 
