@@ -1,4 +1,4 @@
------------------------------------------------------------------------------------------------------1992
+-----------------------------------------------------------------------------------------------------200000
 --      ___          ___          ___                   ___                   ___          ___     --
 --     /\  \        /\  \        /\__\        ___      /\  \                 /\  \        /\  \    --
 --    /::\  \      /::\  \      /::|  |      /\  \    /::\  \               /::\  \      /::\  \   --
@@ -1387,7 +1387,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/rrixh/LOLLYPOPADMIN/m
     wait();
     Notify({
     Description = "hiddenfling enabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1401,7 +1401,7 @@ hiddenfling = false
     wait();
     Notify({
     Description = "hiddenfling disabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1432,7 +1432,7 @@ loadstring(game:HttpGet("https://pastecode.dev/raw/epbdattx/translateMessages_lu
     wait();
     Notify({
     Description = "messages are now being translated";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1457,7 +1457,7 @@ require(game:GetService("Chat").ClientChatModules.ChatSettings).WindowDraggable 
     wait();
     Notify({
     Description = "u kan now resize chatbox";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1471,7 +1471,7 @@ loadstring(game:HttpGet(('https://pastebin.com/raw/DhLMep63'),true))()
     wait();
     Notify({
     Description = "99% fail obby tile memory skript loaded";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1485,7 +1485,7 @@ loadstring(game:HttpGet("https://pastebin.com/raw/RW7ZT29m"))()
     wait();
     Notify({
     Description = "99% fail obby heaven map/anti-lag enabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1501,7 +1501,7 @@ cmd.add({"antiafk", "noafk"}, {"antiafk (noafk)", "disables the >kixked for idli
     wait();
     Notify({
     Description = "anti-afk enabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1524,7 +1524,7 @@ cmd.add({"infinitejump", "infjump", "ij"}, {"infinitejump (infjump, ij)", "enabl
     wait();
     Notify({
     Description = "infinite jump enabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1537,7 +1537,7 @@ cmd.add({"uninfinitejump", "uninfjump", "unij"}, {"uninfinitejump (uninfjump, un
     wait();
     Notify({
     Description = "infinite jump disabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1551,7 +1551,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zephyr10101/AntiFall/
     wait();
     Notify({
     Description = "anti-fall enabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1567,7 +1567,7 @@ game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 120
     wait();
     Notify({
     Description = "superhuman enabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1583,7 +1583,7 @@ game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
     wait();
     Notify({
     Description = "superhuman disabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1596,7 +1596,7 @@ game:GetService("StarterGui"):SetCoreGuiEnabled('Chat', true)
     wait();
     Notify({
     Description = "chat visible";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1609,7 +1609,7 @@ game:GetService("StarterGui"):SetCoreGuiEnabled('Chat', false)
     wait();
     Notify({
     Description = "chat hidden";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1623,7 +1623,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zephyr10101/chat-exec
     wait();
     Notify({
     Description = "chat exekutor";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1645,7 +1645,7 @@ loadstring(game:HttpGet("https://pastecode.dev/raw/nZaPtHFa5p/lollypop5ever_lula
     wait();
     Notify({
     Description = "textures removed";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1661,7 +1661,7 @@ loadstring(game:HttpGet("https://pastecode.dev/raw/nZaPtHFa5p/lollypop5ever_lula
     wait();
     Notify({
     Description = "klimbing on walls enabled (R6)";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1676,7 +1676,7 @@ loadstring(game:HttpGetAsync("https://pastebin.com/raw/RY9cBbdG"))()
     wait();
     Notify({
     Description = "walking on walls enabled (R6 & R15)";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1710,7 +1710,7 @@ loadstring(game:HttpGet("https://pastebin.com/raw/RWLVhV4N",true))()
     wait();
     Notify({
     Description = "use ;keybindgen to generate [Z] keybind to toggle godmode \n(MUST be kapital Z)";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 11;
     });
 end)
@@ -1723,7 +1723,7 @@ loadstring(game:HttpGet("https://freenote.biz/raw/Fhpx5r5A8M"))()
     wait();
     Notify({
     Description = "universal godmode (might be kinda broken)";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1744,7 +1744,7 @@ loadstring(game:HttpGet("https://pastebin.com/raw/uqAS6EfN"))()
     wait();
     Notify({
     Description = "shiftloxk enabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1770,7 +1770,7 @@ loadstring(game:HttpGet("https://pastecode.dev/raw/nZaPtHFa5p/lollypop5ever_lula
     wait();
     Notify({
     Description = "u got a 🖱️ wow";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1783,7 +1783,7 @@ loadstring(game:HttpGet("https://scriptblox.com/raw/Fast-Animation-FE_744"))()
     wait();
     Notify({
     Description = "speedy animations enabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1826,7 +1826,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Imagnir/r6_anims_for_
     wait();
     Notify({
     Description = "THIS IS ONLY FOR R15";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1850,7 +1850,7 @@ loadstring(game:HttpGet("https://paste.gg/p/anonymous/7259b0557ebf44ccabf2f7b58d
     wait();
     Notify({
     Description = "minekraft esp enabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1865,7 +1865,7 @@ loadstring(game:HttpGet("https://pastebin.com/raw/hpMC6ULU"))()
     wait();
     Notify({
     Description = "username esp enabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1880,7 +1880,7 @@ loadstring(game:HttpGet("https://pastebin.com/raw/7K1Jhmck"))()
     wait();
     Notify({
     Description = "purple esp enabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1902,7 +1902,7 @@ loadstring(game:HttpGet("https://pastecode.dev/raw/w5QIzqKn/kraxkhead_lulaslolli
     wait();
     Notify({
     Description = "U ARE A KRAKHEAD";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1915,7 +1915,7 @@ loadstring(game:HttpGet("https://pastecode.dev/raw/7nZso3Lj/jumpToFlip_lulasloll
     wait();
     Notify({
     Description = "jump to flip enabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1928,7 +1928,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/rrixh/fakeboot-lulasl
     wait();
     Notify({
     Description = "wen a player leaves u will fake boot em";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1965,7 +1965,7 @@ loadstring(game:HttpGet("https://pastecode.dev/raw/7o10k3hq/flashlightLS_lulaslo
     wait();
     Notify({
     Description = "🔦good for horror gmaes/dark games";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)
@@ -1994,7 +1994,7 @@ game:GetService("TeleportService"):Teleport(PlaceId, game:GetService("Players").
     wait();
     Notify({
     Description = "Teleporting: Roblox Innovation Awards Voting Hub";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
     });
 end)--end of votinghub
@@ -2059,7 +2059,7 @@ print(Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position
       wait();
       Notify({
       Description = "printed. type /console";
-      Title = "Lollypop Admin";
+      Title = "Lollypop Admin🍭";
       Duration = 5;
       });
 end)
@@ -2799,7 +2799,7 @@ wait();
 
 Notify({
 Description = "Rejoining...";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -3016,7 +3016,7 @@ wait();
 
 Notify({
 Description = "Vehicle fly enabled";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -3035,7 +3035,7 @@ wait();
 
 Notify({
 Description = "Vehicle fly disabled";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -3053,7 +3053,7 @@ wait();
 
 Notify({
 Description = "Killing everyone...";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -3084,7 +3084,7 @@ local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi
 
       Notify({
       Description = "Player has been successfully killed";
-      Title = "Lollypop Admin";
+      Title = "Lollypop Admin🍭";
       Duration = 5;
 
       });
@@ -3255,7 +3255,7 @@ wait();
 
 Notify({
 Description = "Break layered clothing executed, if you havent already equip shirt, jacket, pants and shoes (Layered Clothing ones)";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -3411,7 +3411,7 @@ wait();
 
 Notify({
 Description = "Voided player";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -3562,7 +3562,7 @@ wait();
 
 Notify({
 Description = "Bringing everyone...";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -3596,7 +3596,7 @@ wait();
 
 Notify({
 Description = "Brought the player";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -3658,7 +3658,7 @@ wait();
 
 Notify({
 Description = "Skydiving everyone...";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -4404,7 +4404,7 @@ wait();
 
 Notify({
 Description = "Keybind: Q";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -4429,7 +4429,7 @@ cmd.add({"nofog"}, {"nofog", "Removes all fog from the game"}, function()
 
     Notify({
     Description = "Anti AFK has been enabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
 
 });
@@ -4466,7 +4466,7 @@ cmd.add({"nofog"}, {"nofog", "Removes all fog from the game"}, function()
 
         Notify({
         Description = "Anti attach enabled";
-        Title = "Lollypop Admin";
+        Title = "Lollypop Admin🍭";
         Duration = 5;
 
 });
@@ -4482,7 +4482,7 @@ cmd.add({"nofog"}, {"nofog", "Removes all fog from the game"}, function()
 
           Notify({
           Description = "Anti attach disabled";
-          Title = "Lollypop Admin";
+          Title = "Lollypop Admin🍭";
           Duration = 5;
 
 });
@@ -4494,7 +4494,7 @@ cmd.add({"nofog"}, {"nofog", "Removes all fog from the game"}, function()
 
           Notify({
           Description = "Anti attach already disabled";
-          Title = "Lollypop Admin";
+          Title = "Lollypop Admin🍭";
           Duration = 5;
 
 });
@@ -4509,7 +4509,7 @@ cmd.add({"nofog"}, {"nofog", "Removes all fog from the game"}, function()
 
           Notify({
           Description = "Spawn has been set";
-          Title = "Lollypop Admin";
+          Title = "Lollypop Admin🍭";
           Duration = 5;
 
 });
@@ -4562,7 +4562,7 @@ end)
 
         Notify({
         Description = "Anti AFK disabled";
-        Title = "Lollypop Admin";
+        Title = "Lollypop Admin🍭";
         Duration = 5;
 
 });
@@ -4574,7 +4574,7 @@ end)
 
         Notify({
         Description = "Anti AFK already disabled";
-        Title = "Lollypop Admin";
+        Title = "Lollypop Admin🍭";
         Duration = 5;
 
 });
@@ -4589,7 +4589,7 @@ wait();
 
 Notify({
 Description = "For a better experience, use R6 if you want tools do ;dupetools 5";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -4609,7 +4609,7 @@ Duration = 5;
 
       Notify({
       Description = "ClickTP enabled";
-      Title = "Lollypop Admin";
+      Title = "Lollypop Admin🍭";
       Duration = 5;
 
 });
@@ -4637,7 +4637,7 @@ Duration = 5;
 
       Notify({
       Description = "Anti kill enabled";
-      Title = "Lollypop Admin";
+      Title = "Lollypop Admin🍭";
       Duration = 5;
 
 });
@@ -4653,7 +4653,7 @@ Duration = 5;
 
     Notify({
     Description = "Anti kill disabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
 
 });
@@ -4689,7 +4689,7 @@ end)
 
     Notify({
     Description = "Anti fling enabled";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
 
 });
@@ -4733,7 +4733,7 @@ wait();
 
 Notify({
 Description = "ControlNPCs executed, CTRL + Click on an NPC";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -4797,7 +4797,7 @@ wait();
 
 Notify({
 Description = "AttachPart executed, CTRL + Click on a part";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -4976,7 +4976,7 @@ wait();
 
 Notify({
 Description = "Netless has been activated, re-run this script if you die";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -4990,7 +4990,7 @@ wait();
 
 Notify({
 Description = "Get ready to launch...";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -5025,7 +5025,7 @@ wait();
 
 Notify({
 Description = "Kidnapping... next time take a van, or not";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -5117,7 +5117,7 @@ wait();
 
 Notify({
 Description = "Display names successfully removed";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -5174,7 +5174,7 @@ OldNamecall = hookmetamethod(game, "__namecall", newcclosure(function(...)
 if (getgenv().ED_AntiKick.CheckCaller and not checkcaller() or true) and stringlower(getnamecallmethod()) == "kick" then
 if getgenv().ED_AntiKick.SendNotifications then
   StarterGui:SetCore("SendNotification", {
-    Title = "Lollypop Admin",
+    Title = "Lollypop Admin🍭",
     Text = "The script has successfully intercepted an attempted kick.",
     Icon = "rbxassetid://6238540373",
     Duration = 2,
@@ -5195,7 +5195,7 @@ wait();
 
 Notify({
 Description = "Anti kick executed";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -5215,7 +5215,7 @@ wait();
 
 Notify({
 Description = "Backdoor scanning...";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -5234,7 +5234,7 @@ wait();
 
 Notify({
 Description = "Searching";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -5258,7 +5258,7 @@ wait();
 
 Notify({
 Description = "Searched, please wait while we are teleporting you";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -5687,7 +5687,7 @@ wait();
 
 Notify({
 Description = "Vehicle fly enabled";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -5706,7 +5706,7 @@ wait();
 
 Notify({
 Description = "Not flying anymore";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -6957,7 +6957,7 @@ wait();
 
 Notify({
 Description = "Touchfling executed, press E to toggle";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -7084,7 +7084,7 @@ wait();
 
 Notify({
 Description = "Btools loading, wait 2 seconds.";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -7109,7 +7109,7 @@ wait();
 
 Notify({
 Description = "Netbypass enabled";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -7164,7 +7164,7 @@ wait();
 
 Notify({
 Description = "Spamming the webhook";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -7179,7 +7179,7 @@ wait();
 
 Notify({
 Description = "Stopped spamming the webhook";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -7197,7 +7197,7 @@ wait();
 
 Notify({
 Description = "Webhook has been deleted";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -7213,7 +7213,7 @@ wait();
 
 Notify({
 Description = "Flinging everyone, reset to stop it";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -7557,7 +7557,7 @@ wait();
 
 Notify({
 Description = "FEChat enabled, /e chat displayname to use";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -7572,7 +7572,7 @@ wait();
 
 Notify({
 Description = "Chat translated";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -7587,7 +7587,7 @@ wait();
 
 Notify({
 Description = "Leg resize loaded, R15 only";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -7602,7 +7602,7 @@ wait();
 
 Notify({
 Description = "Making you small.. r15 needed";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -7751,7 +7751,7 @@ local players = getPlr(Username)
 
   Notify({
   Description = "Banging player...";
-  Title = "Lollypop Admin";
+  Title = "Lollypop Admin🍭";
   Duration = 5;
 
   });
@@ -7805,7 +7805,7 @@ wait();
 
 Notify({
 Description = "Airwalk: OFF";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -7822,7 +7822,7 @@ wait();
 
 Notify({
 Description = "Airwalk: On";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -7901,7 +7901,7 @@ wait();
 
 Notify({
 Description = "Boombox muted. Status: Client Sided";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -7913,7 +7913,7 @@ wait();
 
 Notify({
 Description = "Boombox muted. Status: FE";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -8027,7 +8027,7 @@ repeat wait()
 
     Notify({
     Description = "Boombox glitched. Status: Client Sided";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
 
     });
@@ -8040,7 +8040,7 @@ repeat wait()
 
     Notify({
     Description = "Boombox glitched. Status: FE";
-    Title = "Lollypop Admin";
+    Title = "Lollypop Admin🍭";
     Duration = 5;
 
     });
@@ -8060,7 +8060,7 @@ wait();
 
 Notify({
 Description = "Unloopmuted everyone";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -8114,7 +8114,7 @@ wait();
 
 Notify({
 Description = "Boombox glitched. Status: Client Sided";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -8127,7 +8127,7 @@ wait();
 
 Notify({
 Description = "Boombox glitched. Status: FE";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -8146,7 +8146,7 @@ cmd.add({"unglitch", "unglitchboombox"}, {"unglitch <player> (unglitchboombox)",
 
   Notify({
   Description = "Boombox unglitched. Status: Client Sided";
-  Title = "Lollypop Admin";
+  Title = "Lollypop Admin🍭";
   Duration = 5;
 
   });
@@ -8159,7 +8159,7 @@ cmd.add({"unglitch", "unglitchboombox"}, {"unglitch <player> (unglitchboombox)",
 
   Notify({
   Description = "Boombox unglitched. Status: FE";
-  Title = "Lollypop Admin";
+  Title = "Lollypop Admin🍭";
   Duration = 5;
 
   });
@@ -8438,7 +8438,7 @@ local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi
 
       Notify({
       Description = "Player has been successfully killed";
-      Title = "Lollypop Admin";
+      Title = "Lollypop Admin🍭";
       Duration = 5;
 
       });
@@ -8490,7 +8490,7 @@ end)
 
       Notify({
       Description = "Purchase prompts have been disabled";
-      Title = "Lollypop Admin";
+      Title = "Lollypop Admin🍭";
       Duration = 5;
 
       });
@@ -8505,7 +8505,7 @@ end)
 
       Notify({
       Description = "Purchase prompts have been enabled";
-      Title = "Lollypop Admin";
+      Title = "Lollypop Admin🍭";
       Duration = 5;
 
       });
@@ -8520,7 +8520,7 @@ wait();
 
 Notify({
 Description = "Titan loaded... R15 needed";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -8586,7 +8586,7 @@ wait();
 
 Notify({
 Description = "Hold parts loaded, ctrl + click on a part";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -8716,7 +8716,7 @@ wait();
 
 Notify({
 Description = "Spinning...";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -8746,7 +8746,7 @@ wait();
 
 Notify({
 Description = "Spin disabled";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -8770,7 +8770,7 @@ wait();
 
 Notify({
 Description = "Cross loaded, R6 only";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -9573,7 +9573,7 @@ wait();
 
 Notify({
 Description = "Name has been hidden, this only works on billboard guis / custom name fonts";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -9603,7 +9603,7 @@ wait();
 
 Notify({
 Description = "Made unanchored parts have no gravity";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -9618,7 +9618,7 @@ wait();
 
 Notify({
 Description = "Fired all click detectors";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -9803,7 +9803,7 @@ wait();
 
 Notify({
 Description = "Hitbox xhanged";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -9835,7 +9835,7 @@ wait();
 
 Notify({
 Description = "Hitbox disabled";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -9867,7 +9867,7 @@ wait();
 
 Notify({
 Description = "kar breaker loaded, sit on a vehikle, need to be the driver";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -9950,7 +9950,7 @@ wait();
 
 Notify({
 Description = "Fired all touxh interests";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -9971,7 +9971,7 @@ wait();
 
 Notify({
 Description = "Infinite jump enabled";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -9999,7 +9999,7 @@ wait();
 
 Notify({
 Description = "Infinite jump disabled";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -10027,7 +10027,7 @@ wait();
 
 Notify({
 Description = "Xray enabled";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -10043,7 +10043,7 @@ wait();
 
 Notify({
 Description = "Xray disabled";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -10059,7 +10059,7 @@ wait();
 
 Notify({
 Description = "R6 PP LOADED";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -10307,7 +10307,7 @@ wait();
 
 Notify({
 Description = "Pastebin skraper loaded";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -10326,7 +10326,7 @@ wait();
 
 Notify({
 Description = "Amog us...";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -10409,7 +10409,7 @@ wait();
 
 Notify({
 Description = "Blackhole has been loaded, press e to change the position to where your mouse is";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -10867,7 +10867,7 @@ wait();
 
 Notify({
 Description = "Fired all proximity prompts";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -10915,7 +10915,7 @@ wait();
 
 Notify({
 Description = "Chat spy enabled";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -10993,7 +10993,7 @@ wait();
 
 Notify({
 Description = "OG animations set";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -11101,7 +11101,7 @@ wait();
 
 Notify({
 Description = "Use the tool named invisibility (YOU CAN USE TOOLS WITH THIS)";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -11231,7 +11231,7 @@ wait();
 
 Notify({
 Description = "Chat spy enabled";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -11309,7 +11309,7 @@ wait();
 
 Notify({
 Description = "Fired all remotes";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -11335,7 +11335,7 @@ wait();
 
 Notify({
 Description = "Unanchored follow executed";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -11435,7 +11435,7 @@ wait();
 
 Notify({
 Description = "Grabbed all tools";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -11568,7 +11568,7 @@ wait();
 
 Notify({
 Description = "Part grabber executed, press Q on a part";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -11666,7 +11666,7 @@ wait();
 
 Notify({
 Description = "Tping unanxhored parts to the player, if it doesnt teleport walk over to the unanxhored part";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -11772,7 +11772,7 @@ wait();
 
 Notify({
 Description = "Unfroze unanchored parts";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -11799,7 +11799,7 @@ wait();
 
 Notify({
 Description = "Highlighted all unanchored parts";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -11821,7 +11821,7 @@ wait();
 
 Notify({
 Description = "Unhighlighted unanchored parts";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -11854,7 +11854,7 @@ wait();
 
 Notify({
 Description = "Parts have been counted, check console.";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
@@ -11876,7 +11876,7 @@ wait();
 
 Notify({
 Description = "Set local player id to the owner id";
-Title = "Lollypop Admin";
+Title = "Lollypop Admin🍭";
 Duration = 5;
 
 });
