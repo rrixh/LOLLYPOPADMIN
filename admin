@@ -1332,6 +1332,38 @@ cmd.add({"lollypop", "lollypophub", "lulas", "lh", "lula"}, {"LollypopHub (;lh, 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rrixh/lulaslollipopmobile/main/lollypophubmobilev2",true))()
 end)
 
+cmd.add({"cherussii", "cheru", "chelulu", "xheru", "xhelulu"}, {"cherussii (cheru)", "make xhelulu eat ramen"}, function()
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("RAAAAMMMMMMEENNNNNN TIIIMEEEEEEEE🍜🍜😋", "All")
+wait(3.5)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("FIRST U ADD A LIL KIMCHI😏", "All")
+wait(3)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("MMMMM....AHH HA!😋", "All")
+wait(3)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("GARLIC AND SOY SAUCE HERE I COME🥴🥴", "All")
+wait(3)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("FINISHING TOUCHES😍IM SOOOOoO HUNGRYY", "All")
+wait(3)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("OMNOM NOM NOM NOM😋🍜", "All")
+wait(3.2)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("DANG 🤰🏻NOW I LOOK PREGNANT", "All")
+wait(3)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("😩im sooooo full sike", "All")
+wait(4)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("OOOO is that my phone ringing", "All")
+    wait(3)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("***📳*BLEEEeeEEP BLEEEP***📳", "All")
+    wait(3.4)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("hello? oh its just the toilet calling my naaamee🚽😅", "All")
+    wait(3)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🚽🧻🏃🏻‍♀️💨", "All")
+wait(3)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("*playing roblox while on the toilet*", "All")
+wait(2)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("*farts* 💨", "All")
+wait(2)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("well, EXCUUUUUSEE me😅", "All")
+end)
+
 cmd.add({"kommands", "kmds", "commands", "cmds"}, {"commands (cmds)", "opens kommand list"}, function()
 gui.commands()
 end)
@@ -1649,7 +1681,7 @@ loadstring(game:HttpGetAsync("https://pastebin.com/raw/RY9cBbdG"))()
     });
 end)
 
-cmd.add({"flygui", "flyv3"}, {"flygui (fgui)", "v3 fly gui reuploaded"}, function()
+cmd.add({"flygui", "fgui", "flyv3"}, {"flygui (fgui)", "v3 fly gui reuploaded"}, function()
     -- v3 fly
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rrixh/mobileflygui/main/v3_lulaslollipop",true))()
 end)
@@ -1823,7 +1855,7 @@ loadstring(game:HttpGet("https://paste.gg/p/anonymous/7259b0557ebf44ccabf2f7b58d
     });
 end)
 
-cmd.add({"useresp", "uesp"}, {"usernameesp (uesp)", "username esp"}, function()
+cmd.add({"minecraftesp", "mcesp"}, {"minecraftesp (mcesp)", "minekraft esp"}, function()
     --useresp
 loadstring(game:HttpGet("https://pastebin.com/raw/hpMC6ULU"))()
     
@@ -2031,6 +2063,16 @@ print(Game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position
       Duration = 5;
       });
 end)
+
+
+
+
+
+
+
+
+
+
 --[END OF MY 👺👺KOMMANDS]--
 
 --[ SKRIPT ]--
